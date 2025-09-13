@@ -1,4 +1,4 @@
-# beezhub
+# bzyhub
 
 # 👋 Hi, I'm Herbert Brako Bempong  
 
